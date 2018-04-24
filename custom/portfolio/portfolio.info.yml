@@ -1,0 +1,13 @@
+name: Porfolio
+type: theme
+description: "This is my portfolio theme"
+core: 8.x
+base theme: false
+
+regions:
+  header: 'header'
+  content: 'Content'
+  footer: 'Footer'
+
+libraries:
+  - portfolio/custom
