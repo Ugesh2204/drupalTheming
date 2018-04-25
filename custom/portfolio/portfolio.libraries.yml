@@ -3,6 +3,9 @@ custom:
   css:
     theme:
       css/style.css: {}
+      css/form.css: {}
+      css/style_work.css: {}
+      css/style_work_effect.css: {}
   js:
     js/app.js: {}
   dependencies:
